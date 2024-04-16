@@ -15,8 +15,8 @@ const getNextId = () => id++
 let books = [
   {
     id: getNextId(),
-    title: "Dune",
-    author: "Frank Herbert",
+    title: "Midnight's Children",
+    author: "Salman Rushdie",
     finished: false
   },
   {
