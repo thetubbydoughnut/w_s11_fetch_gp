@@ -1,6 +1,4 @@
-# React Project
-
-This is a full-stack React starter app, meant for practicing and prototyping.
+# Fetch Guided Project
 
 ## ✨ Requirements
 
@@ -11,8 +9,10 @@ This is a full-stack React starter app, meant for practicing and prototyping.
 
 1. `npm install`
 2. `npm run dev`
-3. `npm test`
 
-See the [package.json file](./package.json) for other scripts.
+## ✨ Endpoints
 
-**Project created with [@bloomtools/react@0.1.38](https://github.com/bloominstituteoftechnology/npm-tools-react) and Node v20.11.0 on Mon, April 15, 2024 at 08:08 PM**
+- `[GET] /api/books`
+- `[DELETE] /api/books/:id`
+- `[POST] /api/books`
+- `[PUT] /api/books/:id`
